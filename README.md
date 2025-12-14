@@ -48,7 +48,7 @@ Follow the steps below to set up and run the application:
 2. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+   git clone https://github.com/Pranav160702/AI-FINANCIAL-COACH-AGENT-GOOGLE-ADK-LLMS-.git
    ```
 3. **Install Dependencies**:
 
